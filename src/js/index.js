@@ -1,6 +1,7 @@
 import initTilt from "./tilt";
 import initSr from "./sr";
 import { addResume } from "./utils";
+import { addShooting } from "./utils";
 import resume from "../assets/resume.pdf";
 import shooting from "../assets/shooting.pdf";
 
