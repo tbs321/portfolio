@@ -1,0 +1,15 @@
+a {
+  color: white !important;
+  transition: all 0.7s;
+}
+
+a:hover {
+  color: #000 !important;
+  border-bottom: 1px solid black;
+  transform: scale(1.1);
+}
+
+.profile-pic2 {
+  border: none;
+  border-bottom: 1px solid black;
+}
